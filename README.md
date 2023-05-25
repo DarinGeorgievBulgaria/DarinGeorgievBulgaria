@@ -11,8 +11,8 @@ I'm a third-year Computer Science student at Lancaster University with a focus o
 
 ## Projects
 Here are a few noteworthy projects I've worked on recently:
- - Project 1: Distributed Code Synthesis - program by example which takes three numbers as input and the goal is to find what operation can be used between the first two numbers so that they are equal to the third one. This is done using Java RMI, concurrency and Client-Server-Worker architecture. The technique for synthesis is the brute force approach due to the simplicity of the task.
- - Project 2: Landslides and Collapses Calculator - As of now this is the beginning stage of a simple calculator which shows abstract steps of how to find the correct approach when it comes to preventing a landslide/collaplse. This project is done using the help of Docent Aneta Georgieva from Varna Free University. She helps me understand the topic better and make sure that the program follows the Bulgarian regulations for risk management in unstable land.
+ - Project 1: Distributed Code Synthesis - program by example which takes three numbers as input and the goal is to find what operation can be used between the first two numbers so that they are equal to the third one. This is done using Java RMI, concurrency and Client-Server-Worker architecture. The technique for synthesis is the brute force approach due to the simplicity of the task, but it will we changed in the future as I am planning to add more complexity to the problem.
+ - Project 2: Landslides and Collapses Calculator - As of now this is the beginning stage of a calculator which shows abstract steps of how to find the correct approach when it comes to preventing a landslide/collaplse. This project is done using the help of Docent Aneta Georgieva from Varna Free University. She helps me understand the topic better and make sure that the program follows the Bulgarian regulations for risk management in unstable land. More functionality and steps will be added in the future and my end goal is to make this project a real-world application. 
 
 ## Current Focus
 Currently, I'm focusing on enhancing my skills in the following areas:
